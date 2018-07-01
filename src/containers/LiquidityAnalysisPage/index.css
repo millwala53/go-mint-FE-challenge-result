@@ -1,0 +1,7 @@
+.tooltip-chart{
+	position: absolute;
+	background: grey;
+	font-family: Roboto;
+	border-radius: 5px;
+	color: white;
+}
